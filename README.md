@@ -1,7 +1,7 @@
 
 # GenAI Learning Lab
 
-My Generative AI learning journey using Python, LangChain, Large Language Models (LLMs), embeddings, RAG, and AI agents.
+My Generative AI learning journey using LangChain, Large Language Models (LLMs), embeddings, RAG, and AI agents.
 
 ## Goals
 
